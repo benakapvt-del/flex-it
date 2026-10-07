@@ -1,0 +1,6 @@
+{
+  "name": "Flex It Gym",
+  "description": "Official website for Flex It Gym in Hanumanthnagar, Banashankari, Bangalore. Featuring interactive class schedules, pricing customization, and high-converting lead generation tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
